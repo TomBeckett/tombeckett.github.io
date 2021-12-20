@@ -4,8 +4,10 @@
   <url>
     <loc>https://tombeckett.github.io/categories/</loc>
   </url><url>
-    <loc>https://tombeckett.github.io/</loc>
+    <loc>https://tombeckett.github.io/search/</loc>
   </url><url>
     <loc>https://tombeckett.github.io/tags/</loc>
+  </url><url>
+    <loc>https://tombeckett.github.io/</loc>
   </url>
 </urlset>
