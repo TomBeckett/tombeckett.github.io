@@ -1,5 +1,5 @@
 baseURL: "https://tombeckett.github.io/"
-title: ExampleSite
+title: Tom Beckett
 paginate: 5
 theme: "PaperMod"
 
@@ -19,7 +19,7 @@ params:
   title: ExampleSite
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Tom Beckett
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -49,9 +49,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    text: "Tom Beckett"
 
   # profile-mode
   profileMode:
@@ -74,12 +72,10 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    # - name: twitter
+    #   url: "https://twitter.com/"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/TomBeckett"
 
   analytics:
     google:
@@ -95,7 +91,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/TomBeckett/tombeckett.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -112,16 +108,16 @@ params:
 menu:
   main:
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: search
+      name: Search
+      url: /search/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
@@ -132,3 +128,9 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
