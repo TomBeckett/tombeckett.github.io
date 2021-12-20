@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tombeckett.github.io/sitemap.xml
