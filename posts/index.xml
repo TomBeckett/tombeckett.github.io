@@ -10,12 +10,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://tombeckett.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Spring Boot: A quick introduction</title>
+      <link>https://tombeckett.github.io/posts/spring-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tombeckett.github.io/posts/spring-introduction/</guid>
+      <description>Five years ago I moved to Spring Boot from ASP.NET. Frankly, I found Java and the Spring Framework confusing and it was not my choice to use it.
+Since then I&amp;rsquo;ve used many other backend technologies (Ruby on Rails, ASP.NET Core, Express/TypeScript) but I keep coming back to Spring. I&amp;rsquo;ve really had a change of heart with Spring.
+Over those years I&amp;rsquo;ve had to teach many others about Spring and common questions come up:</description>
+    </item>
+    
+    <item>
       <title>Why blog? Why now?</title>
       <link>https://tombeckett.github.io/posts/why-blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tombeckett.github.io/posts/why-blog/</guid>
-      <description>I don&amp;rsquo;t really like blogging as a concept. My reaction is due to the tech world inisiting every engineer should be blogging and how you should feel bad if you dont. I&amp;rsquo;m a fairly private person with little to no online presence.
+      <description>I don&amp;rsquo;t really like blogging as a concept. My reaction is due to the tech world insisting every engineer should be blogging and how you should feel bad if you don&amp;rsquo;t. I&amp;rsquo;m a fairly private person with little to no online presence.
 Despite this I&amp;rsquo;ve wanted to blog for a few years. As a side effect, I&amp;rsquo;m pretty guilty for sending my friends walls of text about my diehard feelings on various tech topics.</description>
     </item>
     
