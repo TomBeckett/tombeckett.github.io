@@ -1,5 +1,6 @@
 ---
 title: "Why blog? Why now?"
+date: "2021-12-21T00:00:00"
 disableShare: true
 hideFooter: true
 ---

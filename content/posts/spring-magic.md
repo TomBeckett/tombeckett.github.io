@@ -1,5 +1,6 @@
 ---
 title: "Spring Boot: Magic Beans"
+date: "2021-12-28T00:00:00"
 disableShare: true
 hideFooter: true
 ---
