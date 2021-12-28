@@ -3,6 +3,8 @@ title: "Spring Boot: A quick introduction"
 date: "2021-12-27T00:00:00"
 disableShare: true
 hideFooter: true
+tags: ['java', 'spring', 'spring-boot']
+categories: ['programming']
 ---
 
 Five years ago I moved to [Spring Boot](https://spring.io/projects/spring-boot) from [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet). Frankly, I found Java and the Spring Framework confusing and it was not my choice to use it.
