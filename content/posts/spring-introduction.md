@@ -69,6 +69,6 @@ The second point is *nice*, but the first should be repeated:
 
 I would assert that a project (aka module) being in the Spring Framework is *not* any kind of seal of quality. Some projects are far more popular and well funded than others. 
 
-Its not impossible for modules to [leave](https://spring.io/blog/2018/12/12/spring-cloud-greenwich-rc1-available-now#spring-cloud-netflix-projects-entering-maintenance-mode) the framework. 
+It's not impossible for projects to [leave](https://spring.io/blog/2018/12/12/spring-cloud-greenwich-rc1-available-now#spring-cloud-netflix-projects-entering-maintenance-mode) the framework. 
 
-Remember, its a collection of modules and it's down to experience to pick the ones right for you. Spring is only heavy if you want it to be.
+Remember, it's a collection of projects and modules. It's down to experience to pick the ones right for you. Spring is only heavy if you want it to be.

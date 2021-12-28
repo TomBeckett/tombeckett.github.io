@@ -114,19 +114,19 @@ public class RestController {
 }
 ```
 
-Effectively Spring just 'knows' about what a `BusinessService` is from the `@Service` annotation. This keeps the RestController clean and understandable, it also gives us flexibility by still having a constructor.
+Effectively Spring just 'knows' about what a `BusinessService` is from the `@Service` annotation. This keeps the `RestController` clean and understandable, it also gives us flexibility by still having a constructor.
 
 I personally do prefer this style as it removes two annotations and makes the code a bit easier to understand. We also have a constructor we can now use in our unit tests if required.
 
 ### When it goes wrong
 
-Theres a few things to look out for when it comes to Spring IoC.
+There are a few things to look out for when it comes to Spring IoC.
 
 #### Don't use new
 
-Any attempts to create an object manually will mean Spring ignores that object and all its descendants. This may seem obvious but effectively when you annotate a class with `@Service`, `@Component` or `@Repository` you are handing over ownership to Spring IoC to create and manage that class. Using the `new` keyword will cause errors as the objects dependency tree wont be properly created.
+Any attempts to create an object manually will mean Spring ignores that object and all its descendants. This may seem obvious but effectively when you annotate a class with `@Service`, `@Component` or `@Repository` you are handing over ownership to Spring IoC to create and manage that class. Using the `new` keyword may cause errors as the objects dependency tree wont be properly created.
 
-Its very much *all or nothing* when it comes to Spring IoC. In certain circumstances this fine (such as unit testing) but overall, its best to avoid creating objects yourself and letting Spring handle it.
+Its very much *all or nothing* when it comes to Spring IoC. In certain circumstances this may be fine (such as unit testing) but overall, it's best to avoid creating objects yourself and letting Spring handle it.
 
 #### You've added another class to a constructor
 
@@ -180,7 +180,7 @@ flowchart LR
     RestController --> BusinessService --> ProductionBusinessServiceImpl
 {{< /mermaid >}}
 
-First we create an interface and each service with the `@Service` annotation to let Spring know about them.
+First, we create a shared interface with each service having the `@Service` annotation.
 
 ```Java
 public interface BusinessService {
@@ -281,5 +281,5 @@ public class ProductionBusinessServiceImpl implements BusinessService {
 I hope after this introduction to Spring you understand a bit more about:
 
 - Why you should be using Spring's inversion of control.
-- How to configure a Spring Bean
+- How to configure a Spring Bean.
 - Potential methods for resolving Spring bean stacktraces.
