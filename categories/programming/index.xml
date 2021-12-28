@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Tom Beckett</title>
-    <link>https://tombeckett.github.io/posts/</link>
-    <description>Recent content in Posts on Tom Beckett</description>
+    <title>programming on Tom Beckett</title>
+    <link>https://tombeckett.github.io/categories/programming/</link>
+    <description>Recent content in programming on Tom Beckett</description>
     <image>
       <url>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Dec 2021 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spring Boot: Security Hardening</title>
       <link>https://tombeckett.github.io/posts/spring-security-hardening/</link>
@@ -40,16 +40,6 @@ Error creating bean with name &amp;#39;beanA&amp;#39;: Injection of autowired de
       <description>Five years ago I moved to Spring Boot from ASP.NET. Frankly, I found Java and the Spring Framework confusing and it was not my choice to use it.
 Since then I&amp;rsquo;ve used many other backend technologies (Ruby on Rails, ASP.NET Core, Express/TypeScript) but I keep coming back to Spring. I&amp;rsquo;ve really had a change of heart with Spring.
 Over those years I&amp;rsquo;ve had to teach many others about Spring and common questions come up:</description>
-    </item>
-    
-    <item>
-      <title>Why blog? Why now?</title>
-      <link>https://tombeckett.github.io/posts/why-blog/</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://tombeckett.github.io/posts/why-blog/</guid>
-      <description>I don&amp;rsquo;t really like blogging as a concept. My reaction is due to the tech world insisting every engineer should be blogging and how you should feel bad if you don&amp;rsquo;t. I&amp;rsquo;m a fairly private person with little to no online presence.
-Despite this I&amp;rsquo;ve wanted to blog for a few years. As a side effect, I&amp;rsquo;m pretty guilty for sending my friends walls of text about my diehard feelings on various tech topics.</description>
     </item>
     
   </channel>

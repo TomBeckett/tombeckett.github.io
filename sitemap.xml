@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tombeckett.github.io/categories/</loc>
+    <lastmod>2021-12-28T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/tags/java/</loc>
+    <lastmod>2021-12-28T01:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://tombeckett.github.io/posts/</loc>
+    <lastmod>2021-12-28T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/categories/programming/</loc>
+    <lastmod>2021-12-28T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/tags/security/</loc>
+    <lastmod>2021-12-28T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/tags/spring/</loc>
+    <lastmod>2021-12-28T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/posts/spring-security-hardening/</loc>
+    <lastmod>2021-12-28T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/tags/spring-boot/</loc>
+    <lastmod>2021-12-28T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/tags/spring-security/</loc>
+    <lastmod>2021-12-28T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/tags/</loc>
+    <lastmod>2021-12-28T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/</loc>
+    <lastmod>2021-12-28T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/tags/ioc/</loc>
     <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tombeckett.github.io/posts/spring-magic/</loc>
-    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tombeckett.github.io/</loc>
     <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tombeckett.github.io/posts/spring-introduction/</loc>
@@ -17,10 +47,6 @@
     <loc>https://tombeckett.github.io/posts/why-blog/</loc>
     <lastmod>2021-12-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tombeckett.github.io/categories/</loc>
-  </url><url>
     <loc>https://tombeckett.github.io/search/</loc>
-  </url><url>
-    <loc>https://tombeckett.github.io/tags/</loc>
   </url>
 </urlset>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ioc on Tom Beckett</title>
+    <link>https://tombeckett.github.io/tags/ioc/</link>
+    <description>Recent content in ioc on Tom Beckett</description>
+    <image>
+      <url>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/tags/ioc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Boot: Magic Beans</title>
+      <link>https://tombeckett.github.io/posts/spring-magic/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tombeckett.github.io/posts/spring-magic/</guid>
+      <description>A common complaint about Spring refers to Spring Magic and general confusion about how dependency injection works in Spring. It can be extremely confusing to get a stacktrace like this:
+Error creating bean with name &amp;#39;beanA&amp;#39;: Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.example.demo.BeanB com.example.demo.BeanA.dependency; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.example.demo.BeanB] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency.</description>
+    </item>
+    
+  </channel>
+</rss>
