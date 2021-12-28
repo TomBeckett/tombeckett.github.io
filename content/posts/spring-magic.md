@@ -2,7 +2,6 @@
 title: "Spring Boot: Magic Beans"
 disableShare: true
 hideFooter: true
-draft: true
 ---
 
 A common complaint about [Spring](https://spring.io) refers to *Spring Magic* and general confusion about how dependency injection works in Spring. It can be extremely confusing to get a stacktrace like this:
