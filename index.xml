@@ -8,12 +8,22 @@
       <url>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tombeckett.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Boot: Magic Beans</title>
+      <link>https://tombeckett.github.io/posts/spring-magic/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tombeckett.github.io/posts/spring-magic/</guid>
+      <description>A common complaint about Spring refers to Spring Magic and general confusion about how dependency injection works in Spring. It can be extremely confusing to get a stacktrace like this:
+Error creating bean with name &amp;#39;beanA&amp;#39;: Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.example.demo.BeanB com.example.demo.BeanA.dependency; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.example.demo.BeanB] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency.</description>
+    </item>
     
     <item>
       <title>Spring Boot: A quick introduction</title>
       <link>https://tombeckett.github.io/posts/spring-introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tombeckett.github.io/posts/spring-introduction/</guid>
       <description>Five years ago I moved to Spring Boot from ASP.NET. Frankly, I found Java and the Spring Framework confusing and it was not my choice to use it.
@@ -22,24 +32,15 @@ Over those years I&amp;rsquo;ve had to teach many others about Spring and common
     </item>
     
     <item>
-      <title>Spring Boot: Magic Beans</title>
-      <link>https://tombeckett.github.io/posts/spring-magic/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tombeckett.github.io/posts/spring-magic/</guid>
-      <description>A common complaint about Spring refers to Spring Magic and general confusion about how dependency injection works in Spring. It can be extremely confusing to get a stacktrace like this:
-Error creating bean with name &amp;#39;beanA&amp;#39;: Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.example.demo.BeanB com.example.demo.BeanA.dependency; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.example.demo.BeanB] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency.</description>
-    </item>
-    
-    <item>
       <title>Why blog? Why now?</title>
       <link>https://tombeckett.github.io/posts/why-blog/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://tombeckett.github.io/posts/why-blog/</guid>
       <description>I don&amp;rsquo;t really like blogging as a concept. My reaction is due to the tech world insisting every engineer should be blogging and how you should feel bad if you don&amp;rsquo;t. I&amp;rsquo;m a fairly private person with little to no online presence.
 Despite this I&amp;rsquo;ve wanted to blog for a few years. As a side effect, I&amp;rsquo;m pretty guilty for sending my friends walls of text about my diehard feelings on various tech topics.</description>
     </item>
+    
     
   </channel>
 </rss>
