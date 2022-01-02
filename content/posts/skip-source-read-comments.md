@@ -9,7 +9,7 @@ categories: ['meta']
 
 Anyone who has been on [Hacker News](https://news.ycombinator.com/news) or [Reddit](https://www.reddit.com) long enough knows the meta joke - skip the source and go straight to the comments.
 
-It gives both sites an air of group think that the content is *always* the site itself, so why bother reading the linked source? If its really good, it will be quoted or just pasted in a top comment anyway..?
+It gives both site's an air of group think that the content is *always* the site itself, so why bother reading the linked source? If it's really good, it will be quoted or just pasted in a top comment anyway..?
 
 While an infinite amount of apes typing in [/r/Superstonk](https://www.reddit.com/r/Superstonk/), can create Shakespeare, often it just recreates the same thread over and over again.
 
@@ -19,14 +19,14 @@ Getting points on Reddit or Hacker News is fairly easy but you'll want to act qu
 
 - *"Java? isn't that an old slow language?"*
 - *"PHP is always insecure, I don't know why people use it!"*
-- *"Node's npm ecosystem sucks"*.
+- *"Node's ecosystem is dangerous.."*
 - *"Why didn't they use TypeScript?/Go/Rust??"*
 
 After enough random comments to move the post from the *new*, more people will show up and dispute these claims. Don't worry, they wont need to read the article either.
 
 - *"Wait, until you hear about how many sites run Wordpress.."*
-- *"Have you heard about Laravel? Its actually okay for PHP"*
-- *"Try Deno/Yarn/nvm, its much better than npm"*
+- *"Have you heard about Laravel? it's actually okay for PHP"*
+- *"Try Deno/Yarn/nvm, it's much better than npm"*
 - *"Go/Rust is a fad"
 - *"I don't understand why we need TypeScript, JavaScript is fine"*
 
@@ -34,9 +34,9 @@ After enough random comments to move the post from the *new*, more people will s
 
 Eventually discussions of discussions will occur. Why PHP is so popular, do you need to learn a new language at all, the mandatory link to a relevant [xkcd](https://xkcd.com/), TypeScript is good actually, webpack is an abomination and needs to be destroyed etc.
 
-I don't hate this, but I do wonder why its so common to seek new content when no one is reading the linked source. 
+I don't hate this, but I do wonder why it's so common to seek new content when no one is reading the linked source. 
 
-Isn't it ironic how such a countercultures are so against to being manipulated, and have such strong rules to stop 're-posts' has itself, become a factory for re-posting comments? For once, I don't think this is a meme meta joke.
+Isn't it ironic how such a countercultures are so against to being manipulated, and have such strong rules to stop 'reposts' has it'self, become a factory for re-posting comments? For once, I don't think this is a meme meta joke.
 
 ## It's not just the readers who miss out
 
@@ -48,6 +48,6 @@ They aren't stupid and this game has become well established at this point. Want
 
 I believe this all happens because both in source and in comments, people want to be noticed and heard. Even if what they are saying is the same as before. 
 
-It's like a weird internet nostalgia ritual *you say x, I say y back* and I don't think its inherently harmful as long as we acknowledge whats happening. 
+It's like a weird internet nostalgia ritual *you say x, I say y back* and I don't think it's inherently harmful as long as we acknowledge what's happening. 
 
-You *might* learn something great in a comments section, but often you wasted some time in your day. Its internet comfort food and thats okay. So lets stop pretending it's all Shakespeare.
+You *might* learn something great in a comments section, but often you wasted some time in your day. it's internet comfort food and thats okay. So lets stop pretending it's all Shakespeare.
