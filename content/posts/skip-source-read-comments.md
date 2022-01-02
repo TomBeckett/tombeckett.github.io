@@ -34,9 +34,11 @@ After enough random comments to move the post from the *new*, more people will s
 
 Eventually discussions of discussions will occur. Why PHP is so popular, do you need to learn a new language at all, the mandatory link to a relevant [xkcd](https://xkcd.com/), TypeScript is good actually, webpack is an abomination and needs to be destroyed etc.
 
-These are good discussions but often you'll see meta threads on both sites lamenting how despite having strong countercultures with strict rules against reposts, its hard to find new linked content.
+I find these discussions extremely predicable and it's not just me. 
 
-I depute this. It's *not the content*, its the highly upvoted *user comments* that are reposts.
+Meta threads on both sites lament how despite having strong countercultures with strict rules against reposts, it's hard to find new content.
+
+I depute this. It's *not the content*, it's the top *user comments* that are reposts.
 
 ## It's not just the readers who miss out
 
