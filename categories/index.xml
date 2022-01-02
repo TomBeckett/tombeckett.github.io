@@ -9,7 +9,16 @@
       <link>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Dec 2021 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jan 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>meta</title>
+      <link>https://tombeckett.github.io/categories/meta/</link>
+      <pubDate>Sun, 02 Jan 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://tombeckett.github.io/categories/meta/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>programming</title>
       <link>https://tombeckett.github.io/categories/programming/</link>
