@@ -34,9 +34,9 @@ After enough random comments to move the post from the *new*, more people will s
 
 Eventually discussions of discussions will occur. Why PHP is so popular, do you need to learn a new language at all, the mandatory link to a relevant [xkcd](https://xkcd.com/), TypeScript is good actually, webpack is an abomination and needs to be destroyed etc.
 
-I don't hate this, but I do wonder why it's so common to seek new content when no one is reading the linked source. 
+These are good discussions but often you'll see meta threads on both sites lamenting how despite having strong countercultures with strict rules against reposts, its hard to find new linked content.
 
-Isn't it ironic how such a countercultures are so against to being manipulated, and have such strong rules to stop 'reposts' has it'self, become a factory for re-posting comments? For once, I don't think this is a meme meta joke.
+I depute this. It's *not the content*, its the highly upvoted *user comments* that are reposts.
 
 ## It's not just the readers who miss out
 
@@ -46,8 +46,8 @@ They aren't stupid and this game has become well established at this point. Want
 
 ## Why it happens
 
-I believe this all happens because both in source and in comments, people want to be noticed and heard. Even if what they are saying is the same as before. 
+I believe this all happens because both in source and in comments, people want to be noticed and heard, regardless of what originality. 
 
-It's like a weird internet nostalgia ritual *you say x, I say y back* and I don't think it's inherently harmful as long as we acknowledge what's happening. 
+It's almost a weird internet nostalgia ritual - *you say x, I say y back*. I don't think it's inherently harmful as long as we acknowledge what's happening. 
 
-You *might* learn something great in a comments section, but often you wasted some time in your day. it's internet comfort food and thats okay. So lets stop pretending it's all Shakespeare.
+You *might* learn something great in a comments section, but often you wasted some time in your day. It's internet comfort food and thats okay. So lets stop pretending it's all Shakespeare.

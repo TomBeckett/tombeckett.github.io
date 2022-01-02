@@ -3,6 +3,7 @@
         "autowire",
         "autowired",
         "Initializr",
+        "reposts",
         "springframework",
         "Squaddy",
         "TLDR"
