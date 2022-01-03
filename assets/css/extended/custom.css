@@ -1,0 +1,4 @@
+/* Remove powered by */
+.footer :nth-child(2) {
+    display: none;
+}
