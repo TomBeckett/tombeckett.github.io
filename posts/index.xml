@@ -39,7 +39,7 @@ What we mean by &amp;lsquo;Safe&amp;rsquo;? Whenever talking about security we&a
       
       <guid>https://tombeckett.github.io/posts/spring-magic/</guid>
       <description>A common complaint about Spring refers to Spring Magic and general confusion about how dependency injection works in Spring. It can be extremely confusing to get a stacktrace like this:
-Error creating bean with name &amp;#39;beanA&amp;#39;: Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.example.demo.BeanB com.example.demo.BeanA.dependency; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.example.demo.BeanB] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency.</description>
+1 2 3 4 5 6 7  Error creating bean with name &amp;#39;beanA&amp;#39;: Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.example.demo.BeanB com.example.demo.BeanA.dependency; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.example.demo.BeanB] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency.</description>
     </item>
     
     <item>
@@ -61,6 +61,17 @@ Over those years I&amp;rsquo;ve had to teach many others about Spring and common
       <guid>https://tombeckett.github.io/posts/why-blog/</guid>
       <description>I don&amp;rsquo;t really like blogging as a concept. My reaction is due to the tech world insisting every engineer should be blogging and how you should feel bad if you don&amp;rsquo;t. I&amp;rsquo;m a fairly private person with little to no online presence.
 Despite this I&amp;rsquo;ve wanted to blog for a few years. As a side effect, I&amp;rsquo;m pretty guilty for sending my friends walls of text about my diehard feelings on various tech topics.</description>
+    </item>
+    
+    <item>
+      <title>Checking dependencies for security vulnerabilities</title>
+      <link>https://tombeckett.github.io/posts/checking-dependencies/</link>
+      <pubDate>Sun, 03 Jan 2021 01:00:00 +0000</pubDate>
+      
+      <guid>https://tombeckett.github.io/posts/checking-dependencies/</guid>
+      <description>A security vulnerability is a nightmare scenario. In my Spring: Security Hardening guide I explain that static code analysis can check your code for common security mistakes. But that raises another question - what about other people&amp;rsquo;s code?
+When you consider that your code is actually a fraction of the deployed artifact it gets really scary.
+Luckily for us, there is a variety of automation we can deploy to cover this scenario.</description>
     </item>
     
   </channel>

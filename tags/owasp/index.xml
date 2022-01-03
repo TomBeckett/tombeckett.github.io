@@ -1,26 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>security on Tom Beckett</title>
-    <link>https://tombeckett.github.io/tags/security/</link>
-    <description>Recent content in security on Tom Beckett</description>
+    <title>owasp on Tom Beckett</title>
+    <link>https://tombeckett.github.io/tags/owasp/</link>
+    <description>Recent content in owasp on Tom Beckett</description>
     <image>
       <url>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Dec 2021 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Spring Boot: Security Hardening</title>
-      <link>https://tombeckett.github.io/posts/spring-security-hardening/</link>
-      <pubDate>Tue, 28 Dec 2021 01:00:00 +0000</pubDate>
-      
-      <guid>https://tombeckett.github.io/posts/spring-security-hardening/</guid>
-      <description>When working on the Squaddy App I&amp;rsquo;ve seen a LOT of internet background noise in our logs. It&amp;rsquo;s especially timely given the recent Log4j2 Remote Code Execution exploit.
-We&amp;rsquo;ve done a lot of work to ensure we stay as safe as possible and I wanted to go through some recommendations.
-What we mean by &amp;lsquo;Safe&amp;rsquo;? Whenever talking about security we&amp;rsquo;re really asking &amp;ldquo;How confident am I this will work as I expect?</description>
-    </item>
-    
+    <lastBuildDate>Sun, 03 Jan 2021 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/tags/owasp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Checking dependencies for security vulnerabilities</title>
       <link>https://tombeckett.github.io/posts/checking-dependencies/</link>
