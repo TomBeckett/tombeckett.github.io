@@ -9,7 +9,18 @@
       <link>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Jan 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jan 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checking dependencies for security vulnerabilities</title>
+      <link>https://tombeckett.github.io/posts/checking-dependencies/</link>
+      <pubDate>Mon, 03 Jan 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://tombeckett.github.io/posts/checking-dependencies/</guid>
+      <description>A security vulnerability is a nightmare scenario. In my Spring: Security Hardening guide I explain that static code analysis can check your code for common security mistakes. But that raises another question - what about other people&amp;rsquo;s code?
+When you consider that your code is actually a fraction of the deployed artifact it gets really scary.
+Luckily for us, there is a variety of automation we can deploy to cover this scenario.</description>
+    </item>
+    
     <item>
       <title>Skip the source, straight to the comments</title>
       <link>https://tombeckett.github.io/posts/skip-source-read-comments/</link>
@@ -61,17 +72,6 @@ Over those years I&amp;rsquo;ve had to teach many others about Spring and common
       <guid>https://tombeckett.github.io/posts/why-blog/</guid>
       <description>I don&amp;rsquo;t really like blogging as a concept. My reaction is due to the tech world insisting every engineer should be blogging and how you should feel bad if you don&amp;rsquo;t. I&amp;rsquo;m a fairly private person with little to no online presence.
 Despite this I&amp;rsquo;ve wanted to blog for a few years. As a side effect, I&amp;rsquo;m pretty guilty for sending my friends walls of text about my diehard feelings on various tech topics.</description>
-    </item>
-    
-    <item>
-      <title>Checking dependencies for security vulnerabilities</title>
-      <link>https://tombeckett.github.io/posts/checking-dependencies/</link>
-      <pubDate>Sun, 03 Jan 2021 01:00:00 +0000</pubDate>
-      
-      <guid>https://tombeckett.github.io/posts/checking-dependencies/</guid>
-      <description>A security vulnerability is a nightmare scenario. In my Spring: Security Hardening guide I explain that static code analysis can check your code for common security mistakes. But that raises another question - what about other people&amp;rsquo;s code?
-When you consider that your code is actually a fraction of the deployed artifact it gets really scary.
-Luckily for us, there is a variety of automation we can deploy to cover this scenario.</description>
     </item>
     
   </channel>

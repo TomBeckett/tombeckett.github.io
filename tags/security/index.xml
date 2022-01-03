@@ -9,7 +9,18 @@
       <link>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Dec 2021 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jan 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checking dependencies for security vulnerabilities</title>
+      <link>https://tombeckett.github.io/posts/checking-dependencies/</link>
+      <pubDate>Mon, 03 Jan 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://tombeckett.github.io/posts/checking-dependencies/</guid>
+      <description>A security vulnerability is a nightmare scenario. In my Spring: Security Hardening guide I explain that static code analysis can check your code for common security mistakes. But that raises another question - what about other people&amp;rsquo;s code?
+When you consider that your code is actually a fraction of the deployed artifact it gets really scary.
+Luckily for us, there is a variety of automation we can deploy to cover this scenario.</description>
+    </item>
+    
     <item>
       <title>Spring Boot: Security Hardening</title>
       <link>https://tombeckett.github.io/posts/spring-security-hardening/</link>
@@ -19,17 +30,6 @@
       <description>When working on the Squaddy App I&amp;rsquo;ve seen a LOT of internet background noise in our logs. It&amp;rsquo;s especially timely given the recent Log4j2 Remote Code Execution exploit.
 We&amp;rsquo;ve done a lot of work to ensure we stay as safe as possible and I wanted to go through some recommendations.
 What we mean by &amp;lsquo;Safe&amp;rsquo;? Whenever talking about security we&amp;rsquo;re really asking &amp;ldquo;How confident am I this will work as I expect?</description>
-    </item>
-    
-    <item>
-      <title>Checking dependencies for security vulnerabilities</title>
-      <link>https://tombeckett.github.io/posts/checking-dependencies/</link>
-      <pubDate>Sun, 03 Jan 2021 01:00:00 +0000</pubDate>
-      
-      <guid>https://tombeckett.github.io/posts/checking-dependencies/</guid>
-      <description>A security vulnerability is a nightmare scenario. In my Spring: Security Hardening guide I explain that static code analysis can check your code for common security mistakes. But that raises another question - what about other people&amp;rsquo;s code?
-When you consider that your code is actually a fraction of the deployed artifact it gets really scary.
-Luckily for us, there is a variety of automation we can deploy to cover this scenario.</description>
     </item>
     
   </channel>

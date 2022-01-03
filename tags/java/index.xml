@@ -9,7 +9,18 @@
       <link>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Dec 2021 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Jan 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Checking dependencies for security vulnerabilities</title>
+      <link>https://tombeckett.github.io/posts/checking-dependencies/</link>
+      <pubDate>Mon, 03 Jan 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://tombeckett.github.io/posts/checking-dependencies/</guid>
+      <description>A security vulnerability is a nightmare scenario. In my Spring: Security Hardening guide I explain that static code analysis can check your code for common security mistakes. But that raises another question - what about other people&amp;rsquo;s code?
+When you consider that your code is actually a fraction of the deployed artifact it gets really scary.
+Luckily for us, there is a variety of automation we can deploy to cover this scenario.</description>
+    </item>
+    
     <item>
       <title>Spring Boot: Security Hardening</title>
       <link>https://tombeckett.github.io/posts/spring-security-hardening/</link>
@@ -40,17 +51,6 @@ What we mean by &amp;lsquo;Safe&amp;rsquo;? Whenever talking about security we&a
       <description>Five years ago I moved to Spring Boot from ASP.NET. Frankly, I found Java and the Spring Framework confusing and it was not my choice to use it.
 Since then I&amp;rsquo;ve used many other backend technologies (Ruby on Rails, ASP.NET Core, Express/TypeScript) but I keep coming back to Spring. I&amp;rsquo;ve really had a change of heart with Spring.
 Over those years I&amp;rsquo;ve had to teach many others about Spring and common questions come up:</description>
-    </item>
-    
-    <item>
-      <title>Checking dependencies for security vulnerabilities</title>
-      <link>https://tombeckett.github.io/posts/checking-dependencies/</link>
-      <pubDate>Sun, 03 Jan 2021 01:00:00 +0000</pubDate>
-      
-      <guid>https://tombeckett.github.io/posts/checking-dependencies/</guid>
-      <description>A security vulnerability is a nightmare scenario. In my Spring: Security Hardening guide I explain that static code analysis can check your code for common security mistakes. But that raises another question - what about other people&amp;rsquo;s code?
-When you consider that your code is actually a fraction of the deployed artifact it gets really scary.
-Luckily for us, there is a variety of automation we can deploy to cover this scenario.</description>
     </item>
     
   </channel>
