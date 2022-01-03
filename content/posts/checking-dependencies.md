@@ -1,12 +1,11 @@
 ---
 title: "Checking dependencies for security vulnerabilities"
-date: "2021-01-03T01:00:00"
+date: "2022-01-03T01:00:00"
 disableShare: true
 hideFooter: true
 tags: ['java', 'security', 'maven', 'owasp']
 categories: ['programming']
 ---
-
 A security vulnerability is a nightmare scenario. In my [Spring: Security Hardening](/posts/spring-security-hardening/) guide I explain that [static code analysis](https://en.wikipedia.org/wiki/Static_program_analysis) can check your code for common security mistakes. But that raises another question - what about other people's code?
 
 When you consider that your code is actually a fraction of the deployed artifact it gets really scary. 
