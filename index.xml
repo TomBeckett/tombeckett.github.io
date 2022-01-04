@@ -9,7 +9,19 @@
       <link>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Jan 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jan 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technologies Retrospective 2021</title>
+      <link>https://tombeckett.github.io/posts/technologies-2022/</link>
+      <pubDate>Tue, 04 Jan 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://tombeckett.github.io/posts/technologies-2022/</guid>
+      <description>Here&amp;rsquo;s my reflection on what technologies I used in 2021 and what I&amp;rsquo;d like to use in 2022. I also detail my current preferred stack for this year.
+2021 The Rules I&amp;rsquo;ve used a lot of different technologies in 2021.
+To keep things sensible, I had to use the technology&amp;hellip;
+ In production with real customers - that means no &amp;lsquo;I did the tutorial&amp;rsquo; opinions allowed. Either for the first time or after a break.</description>
+    </item>
+    
     <item>
       <title>Checking dependencies for security vulnerabilities</title>
       <link>https://tombeckett.github.io/posts/checking-dependencies/</link>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>meta on Tom Beckett</title>
-    <link>https://tombeckett.github.io/categories/meta/</link>
-    <description>Recent content in meta on Tom Beckett</description>
+    <title>learning on Tom Beckett</title>
+    <link>https://tombeckett.github.io/tags/learning/</link>
+    <description>Recent content in learning on Tom Beckett</description>
     <image>
       <url>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 Jan 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jan 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Technologies Retrospective 2021</title>
       <link>https://tombeckett.github.io/posts/technologies-2022/</link>
@@ -20,17 +20,6 @@
 2021 The Rules I&amp;rsquo;ve used a lot of different technologies in 2021.
 To keep things sensible, I had to use the technology&amp;hellip;
  In production with real customers - that means no &amp;lsquo;I did the tutorial&amp;rsquo; opinions allowed. Either for the first time or after a break.</description>
-    </item>
-    
-    <item>
-      <title>Skip the source, straight to the comments</title>
-      <link>https://tombeckett.github.io/posts/skip-source-read-comments/</link>
-      <pubDate>Sun, 02 Jan 2022 01:00:00 +0000</pubDate>
-      
-      <guid>https://tombeckett.github.io/posts/skip-source-read-comments/</guid>
-      <description>Anyone who has been on Hacker News or Reddit long enough knows the meta joke - skip the source and go straight to the comments.
-It gives both site&amp;rsquo;s an air of group think that the content is always the site itself, so why bother reading the linked source? If it&amp;rsquo;s really good, it will be quoted or just pasted in a top comment anyway..?
-While an infinite amount of apes typing in /r/Superstonk, can create Shakespeare, often it just recreates the same thread over and over again.</description>
     </item>
     
   </channel>
