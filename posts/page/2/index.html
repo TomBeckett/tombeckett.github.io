@@ -19,7 +19,7 @@
 <link rel=mask-icon href=https://tombeckett.github.io/%3Clink%20/%20abs%20url%3E>
 <meta name=theme-color content="#2e2e33">
 <meta name=msapplication-TileColor content="#2e2e33">
-<meta name=generator content="Hugo 0.91.2">
+<meta name=generator content="Hugo 0.92.0">
 <link rel=alternate type=application/rss+xml href=https://tombeckett.github.io/posts/index.xml>
 <noscript>
 <style>#theme-toggle,.top-link{display:none}</style>
@@ -69,6 +69,18 @@
 <header class=page-header><div class=breadcrumbs><a href=https://tombeckett.github.io/>Home</a></div>
 <h1>Posts</h1>
 </header>
+<article class=post-entry>
+<header class=entry-header>
+<h2>Spring Boot: Magic Beans
+</h2>
+</header>
+<section class=entry-content>
+<p>A common complaint about Spring refers to Spring Magic and general confusion about how dependency injection works in Spring. It can be extremely confusing to get a stacktrace like this:
+1 2 3 4 5 6 7 Error creating bean with name 'beanA': Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.example.demo.BeanB com.example.demo.BeanA.dependency; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.example.demo.BeanB] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency....</p>
+</section>
+<footer class=entry-footer><span title="2021-12-28 00:00:00 +0000 UTC">December 28, 2021</span>&nbsp;·&nbsp;8 min&nbsp;·&nbsp;Tom Beckett</footer>
+<a class=entry-link aria-label="post link to Spring Boot: Magic Beans" href=https://tombeckett.github.io/posts/spring-magic/></a>
+</article>
 <article class=post-entry>
 <header class=entry-header>
 <h2>Spring Boot: A quick introduction

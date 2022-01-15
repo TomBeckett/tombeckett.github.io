@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>email on Tom Beckett</title>
+    <link>https://tombeckett.github.io/tags/email/</link>
+    <description>Recent content in email on Tom Beckett</description>
+    <image>
+      <url>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 15 Jan 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/tags/email/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Namecheap: A hive of spam and villainy</title>
+      <link>https://tombeckett.github.io/posts/namecheap-spam/</link>
+      <pubDate>Sat, 15 Jan 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://tombeckett.github.io/posts/namecheap-spam/</guid>
+      <description>Anyone who has ever sent lots of emails knows how it&amp;rsquo;s hard to get them delivered without going into spam. There&amp;rsquo;s an entire industry of providers to pay for and lots of technologies to prove you&amp;rsquo;re domain is legitimate such as SPF and DMARC.
+Somehow, every few days I get an email like this:
+What amazes me is that this are not marked as spam yet somehow violate every rule:</description>
+    </item>
+    
+  </channel>
+</rss>

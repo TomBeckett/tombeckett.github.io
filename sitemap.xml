@@ -3,15 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tombeckett.github.io/categories/</loc>
-    <lastmod>2022-01-04T01:00:00+00:00</lastmod>
+    <lastmod>2022-01-15T01:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tombeckett.github.io/tags/learning/</loc>
-    <lastmod>2022-01-04T01:00:00+00:00</lastmod>
+    <loc>https://tombeckett.github.io/tags/email/</loc>
+    <lastmod>2022-01-15T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/tags/hosting/</loc>
+    <lastmod>2022-01-15T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tombeckett.github.io/categories/meta/</loc>
-    <lastmod>2022-01-04T01:00:00+00:00</lastmod>
+    <lastmod>2022-01-15T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/posts/namecheap-spam/</loc>
+    <lastmod>2022-01-15T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tombeckett.github.io/posts/</loc>
+    <lastmod>2022-01-15T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/tags/spam/</loc>
+    <lastmod>2022-01-15T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/tags/</loc>
+    <lastmod>2022-01-15T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/</loc>
+    <lastmod>2022-01-15T01:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tombeckett.github.io/tags/learning/</loc>
     <lastmod>2022-01-04T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tombeckett.github.io/categories/programming/</loc>
@@ -20,13 +38,7 @@
     <loc>https://tombeckett.github.io/tags/retrospective/</loc>
     <lastmod>2022-01-04T01:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tombeckett.github.io/tags/</loc>
-    <lastmod>2022-01-04T01:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tombeckett.github.io/posts/technologies-2022/</loc>
-    <lastmod>2022-01-04T01:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tombeckett.github.io/</loc>
     <lastmod>2022-01-04T01:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tombeckett.github.io/posts/checking-dependencies/</loc>
