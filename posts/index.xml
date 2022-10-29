@@ -9,7 +9,19 @@
       <link>https://tombeckett.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Apr 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Oct 2022 01:00:00 +0000</lastBuildDate><atom:link href="https://tombeckett.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I&#39;ve stopped using continuous delivery</title>
+      <link>https://tombeckett.github.io/posts/continous-delivery/</link>
+      <pubDate>Sat, 29 Oct 2022 01:00:00 +0000</pubDate>
+      
+      <guid>https://tombeckett.github.io/posts/continous-delivery/</guid>
+      <description>Every project I have configured over the last five or so years has used continuous deployment.
+Here is how Atlassian describes it:
+Continuous deployment goes one step further than continuous delivery. With this practice, every change that passes all stages of your production pipeline is released to your customers. There&amp;rsquo;s no human intervention, and only a failed test will prevent a new change to be deployed to production.
+Continuous deployment is an excellent way to accelerate the feedback loop with your customers and take pressure off the team as there isn&amp;rsquo;t a &amp;ldquo;release day&amp;rdquo; anymore.</description>
+    </item>
+    
     <item>
       <title>How do I know if Im a Junior Dev?</title>
       <link>https://tombeckett.github.io/posts/junior-dev/</link>
@@ -19,7 +31,7 @@
       <description>&amp;ldquo;How do I know if Im a Junior Dev?&amp;rdquo; is a common question for those new in their career and particular when suffering from impostor syndrome.
 There are great answers online and want to add an additional unusual answer, not as a perfect guide but a rule of thumb.
 A gaming community comparison Following a few different video game subreddits and I often see two types of posters:
- The experienced player: Examples include long winded monologues about how a bad the latest patch breaks the games balance, how the technical implementation of anti-aliasing is inefficient or how a team threw a match by not understanding the latest meta.</description>
+The experienced player: Examples include long winded monologues about how a bad the latest patch breaks the games balance, how the technical implementation of anti-aliasing is inefficient or how a team threw a match by not understanding the latest meta.</description>
     </item>
     
     <item>
@@ -42,7 +54,7 @@ What amazes me is that this are not marked as spam yet somehow violate every rul
       <description>Here&amp;rsquo;s my reflection on what technologies I used in 2021 and what I&amp;rsquo;d like to use in 2022. I also detail my current preferred stack for this year.
 2021 The Rules I&amp;rsquo;ve used a lot of different technologies in 2021.
 To keep things sensible, I had to use the technology&amp;hellip;
- In production with real customers - that means no &amp;lsquo;I did the tutorial&amp;rsquo; opinions allowed. Either for the first time or after a break.</description>
+In production with real customers - that means no &amp;lsquo;I did the tutorial&amp;rsquo; opinions allowed. Either for the first time or after a break.</description>
     </item>
     
     <item>
@@ -85,7 +97,7 @@ What we mean by &amp;lsquo;Safe&amp;rsquo;? Whenever talking about security we&a
       
       <guid>https://tombeckett.github.io/posts/spring-magic/</guid>
       <description>A common complaint about Spring refers to Spring Magic and general confusion about how dependency injection works in Spring. It can be extremely confusing to get a stacktrace like this:
-1 2 3 4 5 6 7  Error creating bean with name &amp;#39;beanA&amp;#39;: Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.example.demo.BeanB com.example.demo.BeanA.dependency; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.example.demo.BeanB] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency.</description>
+1 2 3 4 5 6 7 Error creating bean with name &amp;#39;beanA&amp;#39;: Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.example.demo.BeanB com.example.demo.BeanA.dependency; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.example.demo.BeanB] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency.</description>
     </item>
     
     <item>

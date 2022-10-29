@@ -28,7 +28,7 @@ What we mean by &amp;lsquo;Safe&amp;rsquo;? Whenever talking about security we&a
       
       <guid>https://tombeckett.github.io/posts/spring-magic/</guid>
       <description>A common complaint about Spring refers to Spring Magic and general confusion about how dependency injection works in Spring. It can be extremely confusing to get a stacktrace like this:
-1 2 3 4 5 6 7  Error creating bean with name &amp;#39;beanA&amp;#39;: Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.example.demo.BeanB com.example.demo.BeanA.dependency; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.example.demo.BeanB] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency.</description>
+1 2 3 4 5 6 7 Error creating bean with name &amp;#39;beanA&amp;#39;: Injection of autowired dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Could not autowire field: private com.example.demo.BeanB com.example.demo.BeanA.dependency; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type [com.example.demo.BeanB] found for dependency: expected at least 1 bean which qualifies as autowire candidate for this dependency.</description>
     </item>
     
     <item>
